@@ -1,2 +1,5 @@
 # hello.world
-just another repository
+
+Hi Humans!
+
+Kinza here, i want to just learn HTML here...
